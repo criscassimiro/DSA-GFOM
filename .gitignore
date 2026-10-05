@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+dados_brutos/
+*.db
+.DS_Store
+resultados/pred/
